@@ -4,5 +4,5 @@
     "details": "Azure Managed Service Provider",
     "version": "1.0.0",
     "brokerVersion": "2.14"
-    "url": "http://osb-test-sample-broker",
+    "url": "http://osb-test",
     "trusted": true
